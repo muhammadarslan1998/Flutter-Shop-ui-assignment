@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:shop_theme_assignment/shopui.dart';
 
 void main() {
   runApp(MyApp());
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget {
     home: (Scaffold(
      
   body: (
-    Shop()),
+    Shopui()),
       )),
       
      
